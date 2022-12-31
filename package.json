@@ -74,7 +74,7 @@
 	"peerDependencies": {
 		"@adonisjs/core": "^5.1.0",
 		"@adonisjs/view": "^6.0.0",
-		"vite": "^3.0.0 || ^2.9.14"
+		"vite": "^4.0 || ^3.0.0 || ^2.9.14"
 	},
 	"files": [
 		"build/**/*"
